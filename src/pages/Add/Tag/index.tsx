@@ -20,6 +20,8 @@ export const tagsData = {
 	fruits:'水果',
 	parents:'父母',
 	pets:'宠物',
+	diet:'饮食',
+	clothing:'衣物'
 }
 
 
